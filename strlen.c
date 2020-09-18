@@ -1,5 +1,3 @@
-// Determines the length of a string
-
 #include <cs50.h>
 #include <stdio.h>
 
